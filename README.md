@@ -7,9 +7,15 @@ The project uses a machine learning model to predict the price of a flight. The 
 ## Observations
 The project found that the following factors are most important in predicting the price of a flight:
 
-* The SOurce airport
+* The Source airport
 * The destination airport
 * The date of Journey
 * The number of stops
 * The airline
-* The time of day
+* The time of Departure
+## Insights
+The project provides insights into the factors that influence the price of a flight. This information can be used by travelers to save money on their flights. For example, travelers can choose to fly from a different airport, or they can choose to travel during the off-season.
+## Findings
+The project found that the machine learning model was able to predict the price of a flight with a high degree of accuracy. The model was able to predict the price of a flight with the 86 % of the accuracy
+
+The project also found that the model was able to generalize well to new data. The model was able to predict the price of flights that were not in the training dataset.
